@@ -1,0 +1,45 @@
+* {
+
+}
+
+/* Header css*/
+
+.header {
+  font-family: Verdana;
+  font-size: 14px;
+  font-weight: bold;
+  width: 100%;
+  height: 100px;
+  position: fixed;
+  display: flex;
+  justify-content: center;
+  border-bottom: 1px solid
+}
+
+nav {
+  width: 50%;
+  display: flex;
+  justify-content: center;
+}
+
+nav li {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: inline-block;
+}
+
+.logo {
+  width: 50%;
+  display: flex;
+  justify-content: center;
+  color: mediumaquamarine;
+}
+
+/* Header css*/
+
+main {
+  position: relative;
+  top: 100px;
+  height: 1000px;
+}
